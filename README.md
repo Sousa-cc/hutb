@@ -129,3 +129,5 @@ setup.bat -p
 
 相关的资产（包括[湖南工商大学大学](https://www.hutb.edu.cn/)、[长沙中电软件园](https://map.baidu.com/poi/%E9%95%BF%E6%B2%99%E4%B8%AD%E7%94%B5%E8%BD%AF%E4%BB%B6%E5%9B%AD/@12566933.66,3258249.376047685,17.83z?uid=694ec5236c53273882a00c5a&ugc_type=3&ugc_ver=1&device_ratio=1&compat=1&en_uid=694ec5236c53273882a00c5a&pcevaname=pc4.1&querytype=detailConInfo&da_src=shareurl)、[国产载具](https://openhutb.github.io/doc/catalogue_vehicles/)等资产）遵循 CC-BY 许可证。
 其他相关资产和代码基于 [MIT 许可证](./LICENSE) 开源。
+###  崩溃排查：查看运行日志
+如果模拟器启动失败或者发生崩溃，可以去项目的 `logs` 文件夹里面读取日志文件，快速定位出错的原因。
